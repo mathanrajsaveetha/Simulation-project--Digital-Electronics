@@ -12,7 +12,8 @@ To simulate this module, you can use any Verilog simulator. Here's an example te
 # TIMING DIAGRAM
 ![image](https://github.com/mathanrajsaveetha/Simulation-project--Digital-Electronics/assets/119560501/f84dec68-4f30-43e8-97f5-65bec49fcb16)
 
-# PROGRAM
+# PROGRAM\
+```
 module OctalToBinaryEncoder (
   input [2:0] octal,
   output reg [7:0] binary
@@ -33,5 +34,5 @@ module OctalToBinaryEncoder (
   end
 
 endmodule
-
+```
 # REFERENCE
